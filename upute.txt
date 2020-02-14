@@ -1,0 +1,2 @@
+KORISNIČKO IME: admin
+LOZINKA: admin
